@@ -1,0 +1,7589 @@
+{
+    "data": [
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/2000036143daniel/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/20stellaw/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/87andrewh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/a.krishnan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aakarshgupta97/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aakash.shukla/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aaron_chen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aaronl/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aaronngai/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/abhisheks/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/abyan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adam.huang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adandamudi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adibollam/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adikotak/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adish.jain/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adithya.j/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aditya.arolkar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aditya.palacharla/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adizim/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adkim/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/adonisyee/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aeholm/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/afmdnf/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ahuynh42/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aismit/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ajaygopi98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ajaymerchia/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ajayramesh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ajhanwar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/akashgokul/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/akcan.balkir/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/akhare97/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/akhosla/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alanscha/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/albert_qu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alberthli/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/albertjin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/albertxu3/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/albertyu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexander_lin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexanderhong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexandernewman/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexandre.immas/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexkassil/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexletu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexyi1234/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alexyip999/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/allan15/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/allenhchen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/allisonjyeh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/alvin.a/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/amanda.wu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/amansidhant/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ameerh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/amohan22/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/amyshen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anamtudor/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ananth.agarwal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anastasiavela/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anavmittal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/andrewb/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/andrewdchen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/andrewsun/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/andy-wu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/andyzhangyn/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/angelynaye/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/angli/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aniiyengar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aniket.mandalik/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/aninrusimha/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anishharis/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anjali.gopal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anjana.srinivas/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ankur.mahesh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/annietang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anthonyhsyu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/anurag.papolu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/araj/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/armaanv/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/arpitasinghal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/arvindsridhar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ashum20/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/asmitachoppa/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/atolpadi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/austin.chang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/austincheng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/averyyip/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/axmcm7/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ayush.agrawal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/baileychen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bcarlson/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bdai/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bhumikagoel/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bikramjit/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "0"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/binhanle/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bjfeng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bjke/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bkooperberg/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bobbyy/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brandon916/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brandongrifs/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brandonxxlee/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brandyfongfong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brazosd/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brent5/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brian.yao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/brianhyang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bryanchen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/btrabucco/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/bwest121/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/c.kim98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/callsman/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/calvinwang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/camilleharris/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/carlo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/catherinecang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cathwu225/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cathy_li/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cathylu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cazhou/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cchan13/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cheng960816/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chenglong_li/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chenyu.shi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chester.leung/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chihyuan_chiu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chiweitseng0519/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chonseng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chrisliu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/christianjchoi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chrniu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/chufanl/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cluesbj/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cmalloy/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/codyzeng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cpkurotori/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cprasad/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cprisby/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/crasmussen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/cwfink/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/czhang51/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/d.vlachogiannis/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dailu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/daiyaanarfeen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/daniel.hua/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/daniel.zhu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/danielgrimshaw/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/danielhong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dannychu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dantongdong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/david.y.wang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/davidcqiu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/davidmao421/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dcroce/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/denniscfeng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dennispark/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/derekjin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/derektang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dfannjiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dhanushp/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/diamondketo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/divya_somasi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/djalota/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dkathuria/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/donnyhyun288/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/drewkaul/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ds.kim/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dsotsaikich/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dwangg/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dxzy/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dyi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/dz.luke/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/e_su/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/edric.xiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/edwardcen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/edwardim/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/efleming/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ehariri/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/eleanorksu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/eli.lipsitz/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/eli95070/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ellen.luo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/emilyczhang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/emmajaeger/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/eric.yiping.wu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ericchiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ericfu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/evan.lohn/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/evanm/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/fmcquarrie3/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/frank_yang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/freddycervantes/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/fumika/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/fzli/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/g.guo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gabbyshvartsman/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gantonius/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gbalke/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/genji.noguchi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/georgeluzhang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ghmoniaga/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gillichu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gnahum12345/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/graham_hughes/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gshubham/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/gsyann/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/haitaozhu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hansheng_jiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/haoen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/haole/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/haonle/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/harrisonyang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/harshayugirase/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hdeng68/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/heatherlckwd/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/helenyan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hendrycks/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/henk/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/henryleou/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/henryxu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hermish/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hersh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hersh.godse/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hngenc/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hongfenglu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/howardki888/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hsiaoderek/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hsiaoyuchiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hsiehbrandon/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/huang.alpal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hugh_jiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hugo.roucaumontagne/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "0"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hygkim95/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/hyoungjin_cho/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ilianherzi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ilkakeenan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ilwonseo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ilya/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/irvingf7/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/j-tang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/j.hu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/j_lee/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jacky.chow/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jadeyen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jagao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jahnavis/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/james.zhang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jamesfang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/janaki.vivrekar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/janderson271/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jared.rosner/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jaredz/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jasonpgoodman/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jasonxiaoda/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jasonyu220/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jasonzhou/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jasuncion/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jeffreychen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jeffreydchen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jeigenbrood/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jennifer1iu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jennywong2129/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jeremychui/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jeremyd/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jerrysong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jessezhang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jessicayeh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jessiehua88/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jgkong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jhan2311/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jhejna/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jiajian_lu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jiajingjing/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jianhuili/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jianshuchi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jiaying_yao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jiayue.li/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jimholl/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jingruwang1999/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jj_kim/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jjasonlan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jjp126/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jleisure/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jleyden/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jmichalski/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jmurata/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/joanszhu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/joe.sun/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/joeytman/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/johntkaris/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/johnxiang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jolinayao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jonathanjtan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/josephngu98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/joshua.yurtsever/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/joshuadu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jove/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jph17/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jqiao2/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jrharika/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jsanz/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jsundaresan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jszou/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/jthays/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/juliedeng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/junkeun.yi/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/junseopark/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/juntai.zheng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/justincheng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/justinwyang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/justinyiwang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kangsb700/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kapurkartik/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/karamarieliu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kate_crawford/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/katesanders/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/katherine.yen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/katherineliu28/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kaushal.yagnik/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kaushik.sid.99/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kbigelow/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kcheang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ke.baek/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ke_xu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kedarthakkar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kellymlin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kenanj11/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kennykang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kephams/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kern.alex/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kesav/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/keshavb/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/keshavrao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevin.zilv.wang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevin_yang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevincao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevinchien/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevinlin1/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevintang129/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevintli/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevinwang300/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kevinzhang1/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kfish95/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/khalil.sarwari/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kifa0422/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kijung/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kimberly.zai/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kkranen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/klinime/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kmcg/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/krbharathala/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kschweidel/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kshama_dwarakanath/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kshtzgupta1/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ksk/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ktlee/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kunalsingh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kushgk/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/kylesu98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ladberg/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lang.tran/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lawrencechen14/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lbluque/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/legengliu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/leon.ming/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lhtonywei/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/liam.shaw/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/liam.toebes/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/liangqiaohao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/liem.nguyen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lijiayi9712/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lilliandu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lily1128/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lin.david/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/linasun/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lingfengsun/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lizhixun/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ljdu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lmh0919/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/longquang2016/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lovishmujral/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/luijeromy/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lukehong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lukemin89/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/lxj/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/maheshmurag/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/manikui/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/marancpalaniappan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/matthew.turney/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/matthewbrennan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/matthewzurek/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/maxwell.linhe/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mayashen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/melissakly/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/merryle/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mhole44/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mhwangc/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/michaelmlu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mike.lee/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mikewang.ca/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mjethanandani/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mjkals5/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/monghim.ng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mrtn.guo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mschwartz01/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mtu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mukill/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/murphym/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/mwudunn/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/myronium/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/namagee/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/narain.rohan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nathanfong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nathanielmhld/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nbarrell/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nblam1994/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nebster100/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/neelv7/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/neilagarwal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/neilmrp/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nflugovoy/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ngahlot/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nicholasmiller/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nicktitterton/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nihalmaunder/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nikhil.sakhamuri3/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nikitadhawan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/niraekjs/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nishetty/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nitinsampath/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nkunjal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/noahjimenez5844/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/noahywu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nprasad247/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/nstruong13/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/oliviajain/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/omatthew98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/omkar.shanbhag/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/omkar_salpekar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/oscar.g.ortega.5/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/p.k.jaroensri/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/p.w.wang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/parhamp/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/patriciaouyang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/pdash/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/pedrampd/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/peterkangveerman/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/philipzhao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/plalor/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/planck/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/pmakkar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/pranavjv/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/prasanth.kotaru/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/putri/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/qdelepine/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/r.ricaurte/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/radhika.dhomse/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rafael.calleja/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rahuljcool26/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rahultimate/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rami.mostafa/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ravi.singhal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ray.pan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/raymondbacco/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/raymondclubb/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/raymondt/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rheasrivats/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ria.vinod/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/riashiv/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/richard.lin.047/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/richard.liu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/richardyz98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rickchang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rishamsidhu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rkeyal/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rkostoeva/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rliu4439/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "0"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rmoughan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rnithin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/robc19111/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/robertquitt/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/robertsweeneyblanco/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rohan.sinha/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rohity33/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rosachoe/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/roshan.krishnan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/rshah98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ryan.lund/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ryanchankh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ryankl_2016/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ryanpanwar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/s.farhat-sabet/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/s.k.xu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/saam.zahedian/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sachitshroff/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sahil.hansalia/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sampringle/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/samyak.parajuli/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sarafinasmith/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sarah.sun123/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sarahechin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sathviknair/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/scott.lee.3898/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/scott.numamoto/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/scottrob230/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/seann/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sequoia/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sera4415/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sethengland/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shah/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shalinikunapuli/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shaos/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sheldon.c/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shiji/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shin.kim/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shireenwarrier/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shivendrakushwah/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shivin302/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shloak/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shrav.k97/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shrey15/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shriya.vohra/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shruthi_chock/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shubham321/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shubhrakanti/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/shusheng1604/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/simontheflutist/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sinned/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sjamil/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/skale1/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/smadhv/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/smandava/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/smithlaura/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sofie.yang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sontyv/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sraghavendran/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sritej/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ssuresh2/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/starrtyang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/stepan_babayan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/steventan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/stiwari/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sujaksh/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sukrit.arora/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/sungpark98/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/suoon_xie/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/superdoyboy/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/surengunturu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tcheng981/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/terrygao87/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/the.m_archer/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/thomas.galeon/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tianjunz/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tianqin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tigerhs1998/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/titan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tmirmira/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tonyliupan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/toradango/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tracer/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tse.kylekobie/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ttnguyen2203/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/turnerhancock/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/tyleryath/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/umakrishnan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/umang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/varoraofficial/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vibhaseshadri/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vibhavad/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/viettruong/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vincentzhu1010/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/violetfuyao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/virajkadakia/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vivien.nguyen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vmaruri1/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vmzijlmans/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vravikumar/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vringeard/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/vsiddharth/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/weiwzhang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/wenbo_zhu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/wendy_hua/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/willarnold/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/willdebeast/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/william.m.wang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/william_yang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/winneluo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/wwu2020/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/xiling.xia/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/xin-peng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/xinchen/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/xinyiz/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/xji2020/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yalini.prabha/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yalun_zheng/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yan.andy4/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yangalex/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yanndecressin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yasha_ektefaie/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yepinshuo/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yichensun/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yifanning/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yihan.xiao/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yilun_tang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yitian.zhang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yiyang.zhou/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ymattegunta/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/youmnarabie/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yuanbenson1772/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yuancheng.tsai/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yue_you/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yujiaze/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yunwu/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yutong.han/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/yuwen.lin/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zacharyjgs/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zaristei/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zelduel/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhaibohan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhang.mengyang/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhang_zhanyuan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhaohanson1/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhili/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhou_zihan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zhuz/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zihao_fan/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/ziruij/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "2"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zivlotzky/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zomair/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "3"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zongyi.george/videos"
+            }
+        },
+        {
+            "gt_labels": {
+                "lift_type": [
+                    "1"
+                ]
+            },
+            "metadata": {
+                "extension": "mp4",
+                "filename": "squat",
+                "folder": "mds189/zpatel/videos"
+            }
+        }
+    ],
+    "index": 632
+}
