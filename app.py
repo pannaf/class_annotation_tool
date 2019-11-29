@@ -60,16 +60,13 @@ def submit():
         json_data = json.load(fp)
 
     for (id, label) in enumerate(label_update):
-        #label_id = [str(li) for li in label_id]
+        # label_id = [str(li) for li in label_id]
         idx = video_index_c[id]
-        print(idx)
+        # print(idx)
         # update the JSON data
         json_data['data'][idx]['gt_labels']['lift_type'] = label
 
-
-    #import pdb; pdb.set_trace();
-
-    if video_index_c[-1] > video_id:
+    if len(video_index_c) > 0 and video_index_c[-1] > video_id:
         json_data['index'] = video_id + num_media_on_page
 
     # write the new JSON file

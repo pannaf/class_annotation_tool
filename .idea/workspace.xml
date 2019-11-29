@@ -2,13 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77b77199-5ff6-4889-a5bb-29b24d7d3d50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/data/labels/candid100k_micro.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/data/labels/candid100k_micro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/script_jas.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/script_jas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/anno_templates/candid100k.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/anno_templates/demoI_images.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/anno_templates/demoV_videos.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/images/candid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/images/demoI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/ASampleAll_aj_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/ASampleAll_jz_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/ASampleAll_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/ASampleAll_pf_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/annTemplates/candid100k.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/annTemplates/demoI_images.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/annTemplates/demoV_videos.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/benchpress_flaw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/benchpress_macro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/benchpress_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_00000_05000_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_05000_10000_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_10000_15000_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_15000_20000_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_20000_25000_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_25000_30000_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_30000_35217_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/bwex_30000_35217_micro_orig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/candid100k.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/candid100k_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/cleanandjerk_macro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/cleanandjerk_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/deadlift_flaw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/deadlift_macro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/deadlift_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/demoI_images.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/demoI_images_anno_template.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/mds_deadbug_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/mds_deadbug_v2_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/mds_inline_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/mds_inline_v2_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/mds_pushup_score_v2_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/mds_squat_score_v2_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/snatch_macro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/snatch_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/squat_flaw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/squat_macro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/labels/squat_micro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script_anth100.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script_flaw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script_granular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script_jas.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index_flaw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/original_index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
