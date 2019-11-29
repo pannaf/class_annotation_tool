@@ -141,15 +141,15 @@ function refresh_media(data,num_medias,video_index) {
   toggle_list = zeros([num_medias,label_template['label'].length]);
   var media_html = "";
   // go through all the media that need to be displayed on the page
-  for (var i = video_index; i < num_medias+video_index; i++) {
-    var lift_type_labels = data[i]['gt_labels']['lift_type'];
+  for (var i = video_index; i < Math.min(num_medias+video_index,max_video); i++) {
+    var lift_type_labels = data[i]['labels'];
     // it could be that multiple labels are applied to a media element
     // go through each label and toggle it
     for (j=0;j<lift_type_labels.length;j++) {
       toggle_list[i-video_index][label_template['label'].indexOf(lift_type_labels[j])] = 1;
     }
     src = rootdir + 'images/' +  data[i]['metadata']['folder'] + '/' + data[i]['metadata']['filename'] + '.' + data[i]['metadata']['extension'];
-    var video_border_color = label_template['label_color_map'][data[i]['gt_labels']['lift_type']];
+    var video_border_color = label_template['label_color_map'][data[i]['labels']];
     //label_template['background_color'][toggle_list[row].indexOf(1)]
     var on_click = "onclick='this.paused ? this.play() : this.pause();'";
     video_tag = "<li><img id='myVideo" + i + "' height='300' style='padding:0px;border-width:10px 10px 10px 10px; border-style:solid;border-color:" + video_border_color + ";'" + on_click + " src='" + src + "'</li>";
@@ -179,7 +179,7 @@ function refresh_media(data,num_medias,video_index) {
     }
     var loop = false;
     if (video_index > video_label_index) {
-    //if (data[i]['gt_labels']['lift_type'] == 'none' || data[i]['gt_labels']['lift_type']==null) {
+    //if (data[i]['labels'] == 'none' || data[i]['labels']==null) {
       loop = true;
       if (dataset_load=='ASampleAll_aj' || dataset_load=='ASampleAll_jz' || dataset_load=='ASampleAll_pf' || dataset_load == 'bwex_00000_05000' || dataset_load == 'bwex_05000_10000' || dataset_load == 'bwex_10000_15000' || dataset_load == 'bwex_15000_20000' || dataset_load == 'bwex_20000_25000' || dataset_load == 'bwex_25000_30000' || dataset_load == 'bwex_30000_35217') {
         playbackRate = 1;
@@ -267,7 +267,7 @@ function update_json_data(button_element) {
         tag_list.push(label_template['label'][j]);
       }
     }
-    json_data[i+video_index]['gt_labels']['lift_type'] = tag_list;
+    json_data[i+video_index]['labels'] = tag_list;
     video_tag_video_index.push(video_index+i);
     video_tag_list.push(tag_list);
   }

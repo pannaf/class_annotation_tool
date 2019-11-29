@@ -64,7 +64,7 @@ def submit():
         idx = video_index_c[id]
         # print(idx)
         # update the JSON data
-        json_data['data'][idx]['gt_labels']['lift_type'] = label
+        json_data['data'][idx]['labels'] = label
 
     if len(video_index_c) > 0 and video_index_c[-1] > video_id:
         json_data['index'] = video_id + num_media_on_page
