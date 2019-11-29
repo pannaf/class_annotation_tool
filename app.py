@@ -35,7 +35,7 @@ def do_admin_login():
 
 @app.route('/submit/')
 def submit():
-    """The calibration function."""
+    """The save function."""
     print("annotations submitted")
     #input = int(request.args.get("input"))
     #pdb.set_trace()
@@ -47,31 +47,34 @@ def submit():
     load_data = str(request.args.get('load_data'))
     ## video index - this gets maintained
     video_id = int(request.args.get('video_id'))
-    ## granularity
-    granularity = str(request.args.get('granularity'))
+    ## media_type
+    media_type = str(request.args.get('media_type'))
     ## number of videos on page
-    num_video_on_page = int(request.args.get('num_video_on_page'))
+    num_media_on_page = int(request.args.get('num_media_on_page'))
     ## current video index - the index in the textbox
     video_index_c = json.loads(request.args.get('label_update_index'))
 
-    #pdb.set_trace()
-
     # read the JSON data
-    json_filename = '.{}{}{}_{}.json'.format(rootdir,'labels/',load_data,granularity)
-    with open(json_filename,'r') as fp:
+    json_filename = '.{}{}{}_{}.json'.format(rootdir, 'labels/', load_data, media_type)
+    with open(json_filename, 'r') as fp:
         json_data = json.load(fp)
 
-    for (id,label) in enumerate(label_update):
+    for (id, label) in enumerate(label_update):
         #label_id = [str(li) for li in label_id]
         idx = video_index_c[id]
+        print(idx)
         # update the JSON data
         json_data['data'][idx]['gt_labels']['lift_type'] = label
 
-    json_data['index'] = video_id + 1
+
+    #import pdb; pdb.set_trace();
+
+    if video_index_c[-1] > video_id:
+        json_data['index'] = video_id + num_media_on_page
 
     # write the new JSON file
     with open(json_filename, 'w') as outfile:
-        json.dump(json_data, outfile, sort_keys=True,indent=4, separators=(',', ': '))
+        json.dump(json_data, outfile, sort_keys=True, indent=4, separators=(',', ': '))
 
     return jsonify({'return': 0})
 

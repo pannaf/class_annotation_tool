@@ -1,0 +1,31 @@
+"label_template" : {
+    "label" : ["male",
+               "female",
+               "no"],
+    "background_color" : ["#0091d5",
+                          "#6ab187",
+                          "#373E4B"],
+    "hover_color" : ["w3-hover-blue",
+                     "w3-hover-green",
+                     "w3-hover-black"],
+    "text_color" : ["#000",
+                    "#000",
+                    "#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
+    "margin" : ["5px",
+                "5px",
+                "5px 5px 5px 20px"],
+    "button_text" : ["Male",
+                     "Female",
+                     "X"],
+    "prefix" : ["<li><div class='w3-container'>",
+                "",
+                ""],
+    "suffix" : ["",
+                "",
+                "</div>"],
+    "label_color_map" : {
+        "male"   : "#0091d5",
+        "female" : "#373E4B",
+        "no"     : "#ea6a47"
+    }
+}

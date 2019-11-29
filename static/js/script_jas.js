@@ -17,301 +17,7 @@ window.onkeydown = function(e) {
   console.log(key_presses);
 }
 
-var granularity_level = 'micro'
-var label_templates_dict = {
-  "macro": {
-    "label" : ["squat","benchpress","deadlift","accessory","cleanandjerk","snatch","multilift","none"],
-    "background_color" : ["#0091d5","#6ab187","#ea6a47","#e0e0e0","#C889DB","#FDC02F","#1b1e26","#373E4B"],
-    "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-sand","w3-hover-purple","w3-hover-yellow","","w3-hover-black"],
-    "text_color" : ["#000","#000","#000","#000","#000","#000","#FEDDDE","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-    "margin" : ["5px","5px","5px","5px 5px 5px 20px","5px","5px","5px 5px 5px 20px","5px 5px 5px 40px"],
-    "button_text" : ["S","B","D","A","CJ","Sn","ML","<b>X</b>"],
-    "prefix" : ["<li><div class='w3-container'>","","","","<div class='w3-container'>","","",""],
-    "suffix" : ["","","","</div>","","","","</div></li>"],
-    "label_color_map" : {
-      "squat" : "#0091d5",
-      "benchpress" : "#6ab187",
-      "deadlift" : "#ea6a47",
-      "accessory" : "#e0e0e0",
-      "cleanandjerk" : "#C889DB",
-      "snatch" : "#FDC02F",
-      "multilift" : "#1b1e26",
-      "none" : "#373E4B"
-    }
-  },
-  "micro" : {
-    "squat" : {
-     "label" : ["overhead","front","back","accessory","zercher","none"],
-     "background_color" : ["#0091d5","#6ab187","#ea6a47","#e0e0e0","#C889DB","#373E4B"],
-     "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-sand","w3-hover-purple","w3-hover-black"],
-     "text_color" : ["#000","#000","#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-     "margin" : ["5px","5px","5px","5px 5px 5px 20px","5px","5px 5px 5px 40px"],
-     "button_text" : ["Overhead","Front","Back","A","Zercher","<b>X</b>"],
-     "prefix" : ["<li><div class='w3-container'>","","","","<div class='w3-container'>",""],
-     "suffix" : ["","","","</div>","","</div></li>"],
-     "label_color_map" : {
-       "overhead" : "#0091d5",
-       "front" : "#6ab187",
-       "back" : "#ea6a47",
-       "accessory" : "#e0e0e0",
-       "zercher" : "#C889DB",
-       "none" : "#373E4B"
-     }
-    },
-    "benchpress" : {
-      "label" : ["regular","incline","decline","accessory","closegrip","widegrip","none"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#e0e0e0","#C889DB","#FDC02F","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-sand","w3-hover-purple","w3-hover-yellow","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px","5px","5px 5px 5px 20px","5px 5px 5px 40px"],
-      "button_text" : ["Regular","Incline","Decline","A","Close","Wide","<b>X</b>"],
-      "prefix" : ["<li><div class='w3-container'>","","","","<div class='w3-container'>","",""],
-      "suffix" : ["","","","</div>","","","</div></li>"],
-      "label_color_map" : {
-        "regular" : "#0091d5",
-        "incline" : "#6ab187",
-        "decline" : "#ea6a47",
-        "accessory" : "#e0e0e0",
-        "closegrip" : "#C889DB",
-        "widegrip" : "#FDC02F",
-        "none" : "#373E4B"
-      }
-    },
-    "deadlift" : {
-      "label" : ["conventional","sumo","stiffleg","accessory","trapbar","none"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#e0e0e0","#C889DB","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-sand","w3-hover-purple","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px","5px","5px 5px 5px 40px"],
-      "button_text" : ["Conventional","Sumo","Stiff leg","A","Trap bar","<b>X</b>"],
-      "prefix" : ["<li><div class='w3-container'>","","","","<div class='w3-container'>",""],
-      "suffix" : ["","","","</div>","","</div></li>"],
-      "label_color_map" : {
-        "conventional" : "#0091d5",
-        "sumo" : "#6ab187",
-        "stiffleg" : "#ea6a47",
-        "accessory" : "#e0e0e0",
-        "trapbar" : "#C889DB",
-        "none" : "#373E4B"
-      }
-    },
-    "cleanandjerk" : {
-      "label" : ["powerclean","hangclean","floorclean","accessory","powerjerk","splitjerk","squatjerk","none"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#e0e0e0","#C889DB","#FDC02F","#1b1e26","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-sand","w3-hover-purple","w3-hover-yellow","","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000","#000","#000","#FEDDDE","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px","5px","5px","5px","5px 5px 5px 40px"],
-      "button_text" : ["Power Cl","Hang Cl","Floor Cl","A","Power Je","Split Je","Squat Je","<b>X</b>"],
-      "prefix" : ["<li><div class='w3-container'>","","","","<div class='w3-container'>","","",""],
-      "suffix" : ["","","","</div>","","","","</div></li>"],
-      "label_color_map" : {
-        "powerclean" : "#0091d5",
-        "hangclean" : "#6ab187",
-        "floorclean" : "#ea6a47",
-        "accessory" : "#e0e0e0",
-        "powerjerk" : "#C889DB",
-        "splitjerk" : "#FDC02F",
-        "squatjerk" : "#1b1e26",
-        "none" : "#373E4B"
-      }
-    },
-    "snatch" : {
-      "label" : ["power","floor","hang","accessory","muscle","balance","none"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#e0e0e0","#C889DB","#FDC02F","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-sand","w3-hover-purple","w3-hover-yellow","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px","5px","5px","5px 5px 5px 40px"],
-      "button_text" : ["Power","Floor","Hang","A","Muscle","Balance","<b>X</b>"],
-      "prefix" : ["<li><div class='w3-container'>","","","","<div class='w3-container'>","",""],
-      "suffix" : ["","","","</div>","","","</div></li>"],
-      "label_color_map" : {
-        "power" : "#0091d5",
-        "floor" : "#6ab187",
-        "hang" : "#ea6a47",
-        "accessory" : "#e0e0e0",
-        "muscle" : "#C889DB",
-        "balance" : "#FDC02F",
-        "none" : "#373E4B"
-      }
-    },
-    "ASampleAll_aj" : {
-      "label" : ["yes","singleperson","fastfps","no"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","Alone","Fast","X"],
-      "prefix" : ["<li><div class='w3-container'>","","",""],
-      "suffix" : ["","","","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B",
-        "single_person" : "#6ab187",
-        "fast_fps" : "#ea6a47"
-      }
-    },
-    "ASampleAll_jz" : {
-      "label" : ["yes","singleperson","fastfps","no"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","Alone","Fast","X"],
-      "prefix" : ["<li><div class='w3-container'>","","",""],
-      "suffix" : ["","","","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B",
-        "single_person" : "#6ab187",
-        "fast_fps" : "#ea6a47"
-      }
-    },
-    "ASampleAll_pf" : {
-      "label" : ["yes","singleperson","fastfps","no"],
-      "background_color" : ["#0091d5","#6ab187","#ea6a47","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-deep-orange","w3-hover-black"],
-      "text_color" : ["#000","#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","Alone","Fast","X"],
-      "prefix" : ["<li><div class='w3-container'>","","",""],
-      "suffix" : ["","","","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B",
-        "single_person" : "#6ab187",
-        "fast_fps" : "#ea6a47"
-      }
-    },
-    "candid100k" : {
-      "label" : ["male","female","no"],
-      "background_color" : ["#0091d5","#6ab187","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-green","w3-hover-black"],
-      "text_color" : ["#000","#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px","5px 5px 5px 20px"],
-      "button_text" : ["Male","Female","X"],
-      "prefix" : ["<li><div class='w3-container'>","",""],
-      "suffix" : ["","","</div>"],
-      "label_color_map" : {
-        "male" : "#0091d5",
-        "female" : "#373E4B",
-        "no" : "#ea6a47"
-      }
-    },
-    "bwex_00000_05000" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    },
-    "bwex_05000_10000" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    },
-    "bwex_10000_15000" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    },
-    "bwex_15000_20000" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    },
-    "bwex_20000_25000" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    },
-    "bwex_25000_30000" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    },
-    "bwex_30000_35217" : {
-      "label" : ["yes","no"],
-      "background_color" : ["#0091d5","#373E4B"],
-      "hover_color" : ["w3-hover-blue","w3-hover-black"],
-      "text_color" : ["#000","#000000; box-shadow: 0px 0px 7px 7px rgba(1,0,0,0.24), 0px 0px 12px 12px rgba(1,0,0,0.19)"],
-      "margin" : ["5px","5px 5px 5px 20px"],
-      "button_text" : ["Yes!","X"],
-      "prefix" : ["<li><div class='w3-container'>",""],
-      "suffix" : ["","</div>"],
-      "label_color_map" : {
-        "yes" : "#0091d5",
-        "no" : "#373E4B"
-      }
-    }
-  }
-}
-var toggle_color = ['#373E4B','#FFF'];
-var toggle_list = [];
-var num_label_types = 0;
-var label_template = {};
-var load_file = 'squat';
-update_label_template();
-
-// current index of the marker in image plane
-var img_index = 0;
-
-var img_labels = [];
-var ground_labels =[];
-
 var rootdir = '/static/data/';
-var num_video = 5;
 var default_tag = 'none';
 var json_data;
 var video_index = 0;
@@ -323,47 +29,50 @@ var update_flag = false;
 var video_tag_list = [];
 var video_tag_video_index = [];
 
+var toggle_color = ['#373E4B','#FFF'];
+var toggle_list = [];
+var num_label_types;
+var label_template;
+
+// the media_type can be images or videos
+var media_type_picker = document.getElementById('media_type');
+var media_type = media_type_picker.options[media_type_picker.selectedIndex].value;
+
+// the default dataset to load is set in index.html in the select picker
+var load_dataset_picker = document.getElementById('load_dataset');
+var dataset_load = load_dataset_picker.options[load_dataset_picker.selectedIndex].value;
+
+// number of media items to display at once
+var num_media_picker = document.getElementById('num_media');
+var num_media = parseInt(num_media_picker.options[num_media_picker.selectedIndex].value);
+
+update_label_template();
+
 $( "#nextBtn" ).click(function() {
   // TODO: don't let this exceed max videos.
-  video_label_index = Math.max(video_index + num_video - 1,video_label_index);
-  console.log('Next button clicked');
-  video_index = video_index + num_video;
-  video_index = Math.min(video_index,max_video-num_video);
-  console.log('Next video index: ' + video_index);
+  video_label_index = Math.max(video_index + num_media - 1,video_label_index);
+  video_index = video_index + num_media;
+  video_index = Math.min(video_index,max_video-num_media);
   document.getElementById("myVideoIndex").value = video_index;
-  console.log('Update flag: ' + update_flag);
   if (update_flag) {
-    console.log('push labels to json..');
-    console.log(labels_to_update);
     push_labels_to_json();
   }
-  refresh_videos(json_data,num_video,video_index);
+  refresh_media(json_data,num_media,video_index);
 });
 
-function convertHex(hex){
-    hex = hex.replace('#','');
-    r = parseInt(hex.substring(0,2), 16);
-    g = parseInt(hex.substring(2,4), 16);
-    b = parseInt(hex.substring(4,6), 16);
-
-    result = 'rgb('+r+','+g+','+b+')';
-    return result;
-}
-
 $( "#prevBtn" ).click(function() {
-    video_index = video_index - num_video;
+    video_index = video_index - num_media;
     video_index = Math.max(video_index,0);
     document.getElementById("myVideoIndex").value = video_index;
     if (update_flag) {
       push_labels_to_json();
     }
-    refresh_videos(json_data,num_video,video_index);
+    refresh_media(json_data,num_media,video_index);
 });
 
 $( "#submitBtn" ).click(function() {
     push_labels_to_json();
 });
-
 
 $("#myVideoIndex").keyup(function(event) {
     if (event.keyCode === 13) {
@@ -372,43 +81,42 @@ $("#myVideoIndex").keyup(function(event) {
         if (update_flag) {
           push_labels_to_json();
         }
-        refresh_videos(json_data,num_video,video_index);
+        refresh_media(json_data,num_media,video_index);
     }
 });
 
-$('#numVideos').on('hidden.bs.select', function (e) {
-  num_video = Number(e.target.value);
-  $('#numVideos').selectpicker('hide');
-  setTimeout(function() { $('#numVideos').selectpicker('show');},20);
+$('#num_media').on('hidden.bs.select', function (e) {
+  num_media = Number(e.target.value);
+  $('#num_media').selectpicker('hide');
+  setTimeout(function() { $('#num_media').selectpicker('show');},20);
   if (update_flag) {
     push_labels_to_json();
   }
-  refresh_videos(json_data,num_video,video_index);
+  refresh_media(json_data,num_media,video_index);
 });
 
-$('#loadFile').on('hidden.bs.select', function (e) {
-  //TODO: change this.... WHAT?! change it to what? ...
-  // before loading new file.. better update any labels we made..
+$('#load_dataset').on('hidden.bs.select', function (e) {
+  // before loading new file.. better save any labels we already made..
   if (update_flag) {
       push_labels_to_json();
   }
-  load_file = e.target.value;
+  dataset_load = e.target.value;
   update_label_template();
-  document.getElementById("videos").innerHTML = '<font color="' + label_templates_dict['macro']['label_color_map'][load_file] + '" size="20">Loading ' + load_file + ' ' + granularity_level + ' tag... please be patient</font>';
-  $('#loadFile').selectpicker('hide');
-  setTimeout(function() { $('#loadFile').selectpicker('show');},20);
+  document.getElementById("videos").innerHTML = '<font color=white size="20">Loading ' + dataset_load + ' ' + media_type + '... please be patient</font>';
+  $('#load_dataset').selectpicker('hide');
+  setTimeout(function() { $('#load_dataset').selectpicker('show');},20);
   // reset some things
   load();
 });
 
-$('#granularity').on('hidden.bs.select', function (e) {
+$('#media_type').on('hidden.bs.select', function (e) {
   //TODO: change this.
   if (update_flag) {
       push_labels_to_json();
   }
-  granularity_level = e.target.value;
+  media_type = e.target.value;
   update_label_template();
-  document.getElementById("videos").innerHTML = '<font color="' + label_templates_dict['macro']['label_color_map'][load_file] + '" size="20">Loading ' + load_file + ' ' + granularity_level + ' tag... please be patient</font>';
+  document.getElementById("videos").innerHTML = '<font color="' + label_templates_dict['macro']['label_color_map'][dataset_load] + '" size="20">Loading ' + dataset_load + ' ' + granularity_level + ' tag... please be patient</font>';
   $('#granularity').selectpicker('hide');
   setTimeout(function() { $('#granularity').selectpicker('show');},20);
   // reset some things
@@ -419,71 +127,53 @@ $('#granularity').on('hidden.bs.select', function (e) {
   //batch_tag(tag_label);
 });
 
-// TODO: load_file is some pretty horrible naming. fix that.
-function update_label_template() {
-  if (granularity_level == 'macro') {
-    label_template = label_templates_dict[granularity_level];
-  }
-  else {
-    label_template = label_templates_dict[granularity_level][load_file];
-  }
-  num_label_types = label_template["label"].length;
-}
-
 function batch_tag(tag) {
-  console.log('in batch tag');
-  for (var i = video_index; i < num_video+video_index; i++) {
+  for (var i = video_index; i < num_media+video_index; i++) {
     var tag_input = tag + '_' + i;
     push_labels_to_list(tag_input);
     update_json_data(tag_input);
   }
   push_labels_to_json();
-  refresh_videos(json_data,num_video,video_index);
+  refresh_media(json_data,num_media,video_index);
 }
 
-function refresh_videos(data,num_videos,video_index) {
-  // TODO: x and x_guts is some pretty terrible naming
-  console.log('refreshing..');
-  console.log(num_videos);
-  toggle_list = zeros([num_videos,label_template['label'].length]);
-  var x = "";
-  for (var i = video_index; i < num_videos+video_index; i++) {
+function refresh_media(data,num_medias,video_index) {
+  toggle_list = zeros([num_medias,label_template['label'].length]);
+  var media_html = "";
+  // go through all the media that need to be displayed on the page
+  for (var i = video_index; i < num_medias+video_index; i++) {
     var lift_type_labels = data[i]['gt_labels']['lift_type'];
+    // it could be that multiple labels are applied to a media element
+    // go through each label and toggle it
     for (j=0;j<lift_type_labels.length;j++) {
       toggle_list[i-video_index][label_template['label'].indexOf(lift_type_labels[j])] = 1;
     }
     src = rootdir + 'images/' +  data[i]['metadata']['folder'] + '/' + data[i]['metadata']['filename'] + '.' + data[i]['metadata']['extension'];
     var video_border_color = label_template['label_color_map'][data[i]['gt_labels']['lift_type']];
-    console.log('video border color');
-    console.log(video_border_color);
+    //label_template['background_color'][toggle_list[row].indexOf(1)]
     var on_click = "onclick='this.paused ? this.play() : this.pause();'";
     video_tag = "<li><img id='myVideo" + i + "' height='300' style='padding:0px;border-width:10px 10px 10px 10px; border-style:solid;border-color:" + video_border_color + ";'" + on_click + " src='" + src + "'</li>";
 
     var progress_bar = "<div class='w3-light-grey' style='width:85%;margin-left:24px;margin-bottom:15px;'><div id='progress-bar" + i + "' class='w3-container' style='height:24px;width:1%;background-color:#2C303C;color:#fff'>0%</div></div>";
     var video_element_string = '"myVideo' + i + '"';
-    var x_guts = '';
-    //How do we go about grabbing the 'correct' background_colors??
-    //I don't understand what suffix is doing...
+    var media_html_i = '';
     for (var ll=0; ll<num_label_types; ll++) {
       var cur_tag = label_template['label'][ll] + '_' + i;
       var cur_tag_string = '"' + cur_tag + '"'
       var cur_html = label_template['prefix'][ll] + "<button class='w3-button w3-circle " + label_template['hover_color'][ll] + "' id='" + cur_tag + "' onclick='update_video_label(";
       cur_html = cur_html + cur_tag_string + "," + video_element_string + ")' style='background-color:" + label_template['background_color'][ll] + ";color:" + label_template['text_color'][ll] + ";margin:" + label_template['margin'][ll] + ";border:4px solid" + toggle_color[toggle_list[i-video_index][ll]] + ";outline: none;'>"+ label_template['button_text'][ll] +"</button>" + label_template['suffix'][ll];
-      x_guts = x_guts + cur_html;
+      media_html_i = media_html_i + cur_html;
     }
-    x = x + "<div style='float:left;'><ul style='list-style-type: none;'>" + video_tag + x_guts + "</ul></div>\n";
+    media_html = media_html + "<div style='float:left;'><ul style='list-style-type: none;'>" + video_tag + media_html_i + "</ul></div>\n";
   }
-  console.log('depress toggle');
-  console.log(toggle_list);
-  document.getElementById("videos").innerHTML = x;
-  for (var i = video_index; i < num_videos+video_index; i++) {
+  document.getElementById("videos").innerHTML = media_html;
+  for (var i = video_index; i < num_medias+video_index; i++) {
     var vid = document.getElementById("myVideo" + i);
     var progressbar = document.getElementById("progress-bar" + i);
     var video_elem = 'myVideo'+i;
     var playbackRate = 5;
-    if (load_file=='ASampleAll_aj' || load_file=='ASampleAll_jz' || load_file=='ASampleAll_pf' || load_file == 'bwex_00000_05000' || load_file == 'bwex_05000_10000' || load_file == 'bwex_10000_15000' || load_file == 'bwex_15000_20000' || load_file == 'bwex_20000_25000' || load_file == 'bwex_25000_30000' || load_file == 'bwex_30000_35217') {
+    if (dataset_load=='ASampleAll_aj' || dataset_load=='ASampleAll_jz' || dataset_load=='ASampleAll_pf' || dataset_load == 'bwex_00000_05000' || dataset_load == 'bwex_05000_10000' || dataset_load == 'bwex_10000_15000' || dataset_load == 'bwex_15000_20000' || dataset_load == 'bwex_20000_25000' || dataset_load == 'bwex_25000_30000' || dataset_load == 'bwex_30000_35217') {
       playbackRate = 1;
-      console.log('playbackRate'); console.log(playbackRate);
     } else {
       playbackRate = 5;
     }
@@ -491,15 +181,15 @@ function refresh_videos(data,num_videos,video_index) {
     if (video_index > video_label_index) {
     //if (data[i]['gt_labels']['lift_type'] == 'none' || data[i]['gt_labels']['lift_type']==null) {
       loop = true;
-      console.log('load_file');console.log(load_file);
-      if (load_file=='ASampleAll_aj' || load_file=='ASampleAll_jz' || load_file=='ASampleAll_pf' || load_file == 'bwex_00000_05000' || load_file == 'bwex_05000_10000' || load_file == 'bwex_10000_15000' || load_file == 'bwex_15000_20000' || load_file == 'bwex_20000_25000' || load_file == 'bwex_25000_30000' || load_file == 'bwex_30000_35217') {
+      if (dataset_load=='ASampleAll_aj' || dataset_load=='ASampleAll_jz' || dataset_load=='ASampleAll_pf' || dataset_load == 'bwex_00000_05000' || dataset_load == 'bwex_05000_10000' || dataset_load == 'bwex_10000_15000' || dataset_load == 'bwex_15000_20000' || dataset_load == 'bwex_20000_25000' || dataset_load == 'bwex_25000_30000' || dataset_load == 'bwex_30000_35217') {
         playbackRate = 1;
-        console.log('playbackRate'); console.log(playbackRate);
       } else {
         playbackRate = 5;
       }
     }
-    enablePlay(vid,playbackRate,loop,i,progressbar);
+    if (media_type == 'video') {
+        enablePlay(vid,playbackRate,loop,i,progressbar);
+    }
   }
 }
 
@@ -520,7 +210,6 @@ function update_video_label(clicked_id,vid_elem) {
       toggle_list[row][i] = 0;
       vi = video_index + row;
       var button_id = label_template['label'][i] + '_' + vi;
-      console.log(button_id);
       document.getElementById(button_id).style.border = '4px solid rgb(55, 62, 75)';
     }
   }
@@ -565,16 +254,13 @@ function updateProgressBar(myvid,id,prog_bar) {
 }
 
 function push_labels_to_list(button_element) {
-  console.log('in push labels to list');
   update_flag = true;
 }
 
 function update_json_data(button_element) {
-  console.log('in update json data');
-  console.log(button_element);
   video_tag_list = [];
   video_tag_video_index = [];
-  for (i=0;i<num_video;i++) {
+  for (i=0;i<num_media;i++) {
     var tag_list = [];
     for (j=0;j<toggle_list[i].length;j++) {
       if (toggle_list[i][j] == 1) {
@@ -588,20 +274,14 @@ function update_json_data(button_element) {
 }
 
 function push_labels_to_json() {
-  console.log('push_labels_to_json');
-  console.log(labels_to_update);
-  console.log(rootdir);
-  console.log(load_file);
   $.ajax({
     type: "GET",
     url: $SCRIPT_ROOT + "/submit/",
     contentType: "application/json; charset=utf-8",
-    //data:{label_update:JSON.stringify(labels_to_update),rootdir:rootdir,load_data:load_file,video_id:video_label_index,granularity:granularity_level},
-    data:{label_update:JSON.stringify(video_tag_list),label_update_index:JSON.stringify(video_tag_video_index),rootdir:rootdir,load_data:load_file,video_id:video_label_index,granularity:granularity_level,num_video_on_page:num_video},
+    //data:{label_update:JSON.stringify(labels_to_update),rootdir:rootdir,load_data:dataset_load,video_id:video_label_index,granularity:granularity_level},
+    data:{label_update:JSON.stringify(video_tag_list),label_update_index:JSON.stringify(video_tag_video_index),rootdir:rootdir,load_data:dataset_load,video_id:video_label_index,media_type:media_type,num_media_on_page:num_media},
     success: function(data) {
         //alert(labels_to_update);
-        console.log(rootdir);
-        console.log(load_file);
         labels_to_update = [];
         update_flag = false;
         //alert(data.result);
@@ -613,21 +293,25 @@ function push_labels_to_json() {
 
 // Just load the JSON data once, when the request is made for that tag's videos.
 function load() {
-    console.log('loading function');
     $.ajaxSetup({ cache:false });
-    console.log('did i cache this?');
-    console.log('location: static/data/labels/' + load_file + '_' + granularity_level + '.json');
-    $.getJSON('static/data/labels/' + load_file + '_' + granularity_level + '.json', function(data) {
-        console.log('am i ever reaching here?');
+    $.getJSON('static/data/labels/' + dataset_load + '_' + media_type + '.json', function(data) {
         json_data = data['data'];
-        console.log(json_data);
         max_video = json_data.length;
-        //video_index = Math.min(document.getElementById("myVideoIndex").value,max_video-num_video-1);
+        //video_index = Math.min(document.getElementById("myVideoIndex").value,max_video-num_media-1);
         //video_index = Math.max(0,video_index);
         video_index = data['index'];
         video_label_index = data['index'];
         document.getElementById("myVideoIndex").value = video_index;
-        refresh_videos(json_data,num_video,video_index);
+        refresh_media(json_data,num_media,video_index);
+    });
+}
+
+// refer to static/data/anno_templates for label templates. the templates are just the html formatting for the display
+function update_label_template() {
+    $.ajaxSetup({ cache:false });
+    $.getJSON('static/data/anno_templates/' + dataset_load + '_' + media_type + '.json', function(data) {
+        label_template = data['label_template'];
+        num_label_types = label_template['label'].length;
     });
 }
 
@@ -650,24 +334,24 @@ var addEvent = document.addEventListener ? function(target,type,action){
 addEvent(document,'keydown',function(e){
     e = e || window.event;
     var key = e.which || e.keyCode;
-    // 70 is f: go forward num_video clips (effectively the same as pressing next..
+    // 70 is f: go forward num_media clips (effectively the same as pressing next..
     // why don't you combine those?!)
     if (key==70) { // f
       push_labels_to_json();
-      video_label_index = Math.max(video_index + num_video - 1,video_label_index);
-      video_index = video_index + num_video;
-      video_index = Math.min(video_index,max_video-num_video);
+      video_label_index = Math.max(video_index + num_media - 1,video_label_index);
+      video_index = video_index + num_media;
+      video_index = Math.min(video_index,max_video-num_media);
       document.getElementById("myVideoIndex").value = video_index;
-      refresh_videos(json_data,num_video,video_index);
+      refresh_media(json_data,num_media,video_index);
     }
-    // 68 is d: go backward num_video clips (effectively the same as pressing prev..
+    // 68 is d: go backward num_media clips (effectively the same as pressing prev..
     // why don't you combine those?!)
     else if (key==68) { // d
       push_labels_to_json();
-      video_index = video_index - num_video;
+      video_index = video_index - num_media;
       video_index = Math.max(video_index,0);
       document.getElementById("myVideoIndex").value = video_index;
-      refresh_videos(json_data,num_video,video_index);
+      refresh_media(json_data,num_media,video_index);
     } else if (key==65) { // a: i believe this is for submit
       if (update_flag) { push_labels_to_json(); }
     }

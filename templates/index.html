@@ -51,15 +51,16 @@ background-color:  #CCCCCC;
 </style>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <div class = "container-fluid text-center" style="margin-top:50px">
-    <h1 align="left" style="margin-left:20px;color:#98B1C4;">Video Filtering Annotation Tool</h1>
+    <h1 align="left" style="margin-left:20px;color:#98B1C4;">Classification Annotation Tool</h1>
 
-    <span style="color:#6691b8;font-size:13pt;margin-right:10px;">Videos per page: </span>
-    <select id="numVideos" class="selectpicker" data-style="btn-new" data-width="fit">
+    <span style="color:#6691b8;font-size:13pt;margin-right:10px;">Media per page: </span>
+    <select id="num_media" class="selectpicker" data-style="btn-new" data-width="fit">
         <option value='1'>1</option>
         <option value='2'>2</option>
         <option value='3'>3</option>
-        <option value='5'>5</option>
-        <option value='6' selected>6</option>
+        <option value='4'>4</option>
+        <option value='5' selected>5</option>
+        <option value='6'>6</option>
         <option value='10'>10</option>
         <option value='15'>15</option>
         <option value='20'>20</option>
@@ -75,52 +76,21 @@ background-color:  #CCCCCC;
         <button type="button" id="nextBtn" class="btn btn-md btn-default" style = "width: 120px; height:40px">Next</button>
     </div>
 
-    <span style="color:#6691b8;font-size:13pt;margin-left:20px;margin-right:20px;">Load file: </span>
-    <select id="loadFile" class="selectpicker" data-style="btn-new" data-width="fit">
-      <optgroup label="Powerlifting">
-        <option value='squat' style="color:#0091d5;">Squat</option>
-        <option value='benchpress' style="color:#6ab187;">Bench</option>
-        <option value='deadlift' style="color:#ea6a47;">Deadlift</option>
+    <span style="color:#6691b8;font-size:13pt;margin-left:20px;margin-right:20px;">Load dataset: </span>
+    <select id="load_dataset" class="selectpicker" data-style="btn-new" data-width="fit">
+      <optgroup label="Demo datasets">
+        <option value='demoI' style="color:#0091d5;" selected>Demo Images</option>
+        <option value='demoV' style="color:#6ab187;">Demo Videos</option>
       </optgroup>
-      <optgroup label="Weightlifting">
-        <option value='cleanandjerk' style="color:#C889DB;">Clean and jerk</option>
-        <option value='snatch' style="color:#FDC02F;">Snatch</option>
-      </optgroup>
-      <optgroup label="VLOG">
-        <option value='candid100k' style="color:#0091d5;">Candid</option>
-        <option value='ASampleAll_aj' style="color:#0091d5;">Angjoo</option>
-        <option value='ASampleAll_jz' style="color:#0091d5;">Jason</option>
-        <option value='ASampleAll_pf' style="color:#0091d5;">Panna</option>
-      </optgroup>
-      <optgroup label="MDS189 Scores">
-        <option value='mds_pushup_score_v2' style="color:#0091d5;">Pushup</option>
-        <option value='mds_squat_score_v2' style="color:#0091d5;">Squat</option>
-      </optgroup>
+      <!-- You can add your own datasets with the same template as the Demo datasets
+           I found it useful to group my different datasets with different optgroups
+      -->
     </select>
 
-    <!--<span style="color:#6691b8;font-size:13pt;margin-left:20px;margin-right:20px;">Batch tag: </span>
-    <select id="batchTag" class="selectpicker" data-style="btn-new" data-width="fit">
-      <optgroup label="Powerlifting">
-        <option value='squat' style="color:#0091d5;">Squat</option>
-        <option value='bench' style="color:#6ab187;">Bench</option>
-        <option value='deadlift' style="color:#ea6a47;">Deadlift</option>
-      </optgroup>
-      <optgroup label="Weightlifting">
-        <option value='cleanandjerk' style="color:#C889DB;">Clean and jerk</option>
-        <option value='snatch' style="color:#FDC02F;">Snatch</option>
-      </optgroup>
-      <optgroup label="Other">
-        <option value='accessory' style="color:#e0e0e0;">Accessory</option>
-        <option value='multilift' style="color:#1b1e26;">Multi Lift</option>
-        <option value='none' selected>None</option>
-      </optgroup>
-    </select>-->
-
-    <span style="color:#6691b8;font-size:13pt;margin-left:20px;margin-right:20px;">Granularity: </span>
-    <select id="granularity" class="selectpicker" data-style="btn-new" data-width="fit">
-      <option value='micro' style="color:#0091d5;">micro</option>
-      <option value='macro' style="color:#6ab187;">macro</option>
-      <option value='flaw' style="color:#6ab187;">flaw</option>
+    <span style="color:#6691b8;font-size:13pt;margin-left:20px;margin-right:20px;">Media Type: </span>
+    <select id="media_type" class="selectpicker" data-style="btn-new" data-width="fit">
+      <option value='videos' style="color:#0091d5;">videos</option>
+      <option value='images' style="color:#6ab187;" selected>images</option>
     </select>
 
     <span style = "margin-left:30px;color:#6691b8;font-size:13pt;">Potentially useful:</span>
@@ -128,7 +98,7 @@ background-color:  #CCCCCC;
         <button type="button" id="submitBtn" class="btn btn-md btn-success" style = "width: 120px; height:40px">Submit</button>
     </div>
     <br><br>
-    <div id='videos' style='overflow:hidden;'><font color="#e0e0e0" size="20">Click the dropdown above to load a tag..</font></div>
+    <div id='videos' style='overflow:hidden;'><font color="#e0e0e0" size="20">Make a selection from the load dataset menu</font></div>
 </div>
 
 <!-- <script type="text/javascript" src="{{ url_for('static', filename='js/script_granular.js') }}?v=136"></script> -->
@@ -139,6 +109,6 @@ background-color:  #CCCCCC;
   <option value="12">December</option>
 </select> -->
 
-<script type="text/javascript" src="{{ url_for('static', filename='js/script_jas.js') }}?v=2"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/script_jas.js') }}?v=60"></script>
 
 </html>
